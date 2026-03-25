@@ -29,7 +29,7 @@ Durante a instalação, pode deixar tudo no padrão.
     
 3. Rode:
 
-> [!TERMINAL]
+
 > git init .
 > 
 
@@ -37,7 +37,7 @@ Isso serve pra transformar a pasta atual do projeto em um repositório Git, evit
 
 ---
 ## 4. Baixe o Github Desktop
-https://desktop.github.com/download/
+[https://desktop.github.com/download/](https://desktop.github.com/download/)
 
 1. Após instalar, vá na opção "Adicionar repositório existente"  
 2. Adicione a pasta do projeto (onde você rodou `git init .`)  
@@ -73,7 +73,7 @@ Isso evita subir arquivos desnecessários e pesados.
   
 - Lembrar que é preciso adicionar quem vai poder colaborar com o projeto no site do GitHub, nas configurações do projeto você convida seu parceire de equipe em "Colaborators" :D
   
-  Documentações que podem ser uteis:
+### Documentações que podem ser uteis:
 -  https://git-scm.com/docs 
 -  https://docs.github.com/en/desktop
 - https://docs.unity.com/en-us
